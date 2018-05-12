@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '39746'
     url: http://www.gutenberg.org/2009/agents/39746
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38974#Arnoldiana-ou-Sophie-Arnould-et-ses-contemporaines---13-recueil-choisi-d-Anecdotes-piquantes-_
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2012-02-24'
 gutenberg_type: Text
