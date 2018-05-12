@@ -1,0 +1,43 @@
+_repo: Arnoldiana-ou-Sophie-Arnould-et-ses-contemporaines---13-recueil-choisi-d-Anecdotes-piquantes-__38974
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38974-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Arnould, Sophie
+    aliases:
+    - Arnould, Madeleine Sophie
+    - Arnould, Magdeleine Sophie
+    - Arnoult, Sophie
+    birthdate: 1740
+    deathdate: 1802
+    gutenberg_agent_id: '44293'
+    url: http://www.gutenberg.org/2009/agents/44293
+  editor:
+    agent_name: Deville, Albéric
+    aliases:
+    - Deville, Pierre-Francois-Alberic
+    - Deville, A. (Albéric)
+    - Deville, Pierre-François-Albéric
+    birthdate: 1773
+    deathdate: 1832
+    gutenberg_agent_id: '39746'
+    url: http://www.gutenberg.org/2009/agents/39746
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2012-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38974'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arnould, Sophie, 1740-1802'
+- !lcc 'ML'
+title: "Arnoldiana, ou Sophie Arnould et ses contemporaines;\r\nrecueil choisi d'Anecdotes\
+  \ piquantes, de Réparties et de bons Mots de Mlle Arnould précédé d'une notice sur\
+  \ sa vie précédé d'une Notice sur sa Vie et sur l'Académie impériale de Musique."
+url: http://www.gutenberg.org/ebooks/38974
